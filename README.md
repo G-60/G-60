@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Student | Frontend Developer</p>
+<p align="center">Student | Jr PT</p>
 
 ###
 
