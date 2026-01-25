@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Cybersecurity student who is passionate about website development, and website penetration testing. :smile:</p>
+<p align="left">Cybersecurity student who is looking forward on improving technical skills in the field of penetration testing (web, mobile). :></p>
 
 ###
 
@@ -30,28 +30,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-60&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=The%20weather%20outside" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">🖥️ | ᴍʏ ᴛᴇᴄʜ sᴛᴀᴄᴋ</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###
