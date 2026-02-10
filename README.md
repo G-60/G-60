@@ -1,20 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=true&text=Murad%20Salem&fontSize=60&fontColor=d1d5db&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
-<p align="center">Student | Jr PT</p>
-
-###
-
 <br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/murad-salem-cys/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="22" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
