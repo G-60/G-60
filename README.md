@@ -46,8 +46,3 @@ A passionate Cybersecurity student with experience in penetration testing and fr
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
