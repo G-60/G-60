@@ -1,4 +1,4 @@
-# <div align="center">Murad Salem</div>**  
+# <div align="center">Murad Salem</div> 
   
 
 #### <div align="center">Junior Penetration Tester</div>  
@@ -15,7 +15,7 @@
   
 
 <div align="center"><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3114896" style='border:none;scale: 1.1;'></iframe>
-</div>**  
+</div>
   
 
 
