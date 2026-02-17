@@ -12,11 +12,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<div align="center"><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3114896" style='border:none;scale: 1.1;'></iframe>
-</div>
-  
+<p align="center">
+  <a href="https://tryhackme.com/p/YeaJune">TryHackMe Profile</a>
+</p>
 
 
 
@@ -44,6 +42,6 @@ A passionate Cybersecurity student with experience in penetration testing and fr
   
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA5c2w1MWhsYzJndXNweXMwNmZwYnI1cG9zMnBsemMyem41MXhqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t8xgPfC5oNIRMrNooe/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIyYWE5cXljM2V4Ym11bmpweXRmam1sMjN1bGJ5Znc4YTFrcjBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zl7u48zLVFgLpRwq6f/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
